@@ -111,8 +111,11 @@ body {
     font-size: 1.8em;
   }
   .gussContainer {
-    justify-content: space-around;
     font-size: 0.5em;
+  }
+  .gussContainer .changeColor {
+    width: 32%;
+    text-align: center;
   }
   .cardContainer {
     min-height: 75vh;
